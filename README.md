@@ -18,6 +18,19 @@ Untuk mencari User gunakan ftp.request.command == USER
 Sedangkan untuk mencari Password gunakan ftp.request.command == PASS
 <img src="https://github.com/hrswcksono/Jarkom_Modul1_Lapres_D14/blob/main/gambar/no9b.png" >
 
+## no 10
+
+Cari file .pdf di wireshark lalu download dan buka file tersebut!
+clue: "25 50 44 46"
+
+Menggunakan perintah frame contains "application/pdf"
+<img src="https://github.com/hrswcksono/Jarkom_Modul1_Lapres_D14/blob/main/gambar/no10a.png" >
+
+Kemuduan Follow TCP Stream dan arahakan pada RAW lalu simpan dalam bentuk pdf
+<img src="https://github.com/hrswcksono/Jarkom_Modul1_Lapres_D14/blob/main/gambar/no10b.png" >
+
+Ini adalah tampilan dari file pdf tersebut
+<img src="https://github.com/hrswcksono/Jarkom_Modul1_Lapres_D14/blob/main/gambar/no10c.png" >
 
 
 # Capture Filter
