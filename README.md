@@ -38,11 +38,15 @@ Maka akan ditemukan lalu lintas data pada port 21
 
 Filter sehingga wireshark hanya mengambil paket yang berasal dari port 80!
 
+Menggunakan command tcp src port 80
+
 <img src="https://github.com/hrswcksono/Jarkom_Modul1_Lapres_D14/blob/main/gambar/no12.png" >
 
 ## No 13
 
 Filter sehingga wireshark hanya menampilkan paket yang menuju port 443!
+
+Menggunakan command tcp dst port 443
 
 <img src="https://github.com/hrswcksono/Jarkom_Modul1_Lapres_D14/blob/main/gambar/no13.png" >
 
@@ -54,10 +58,14 @@ Mencari ip kita dengan command di cmd ipconfig/all
 
 <img src="https://github.com/hrswcksono/Jarkom_Modul1_Lapres_D14/blob/main/gambar/no14a.png" >
 
+Setelah di temukan ipnya, lalu menuliskan ip src 192.168.0.104
+
 <img src="https://github.com/hrswcksono/Jarkom_Modul1_Lapres_D14/blob/main/gambar/no14b.png" >
 
 ## No 15
 
 Filter sehingga wireshark hanya mengambil paket yang tujuannya ke monta.if.its.ac.id!
+
+Menggunakan command dst host monta.if.its.ac.id
 
 <img src="https://github.com/hrswcksono/Jarkom_Modul1_Lapres_D14/blob/main/gambar/no15.png" >
