@@ -4,7 +4,7 @@
 
 Cari objek apa saja yang didownload (RETR) dari koneksi FTP dengan Microsoft FTP Service!
 
-Pertama mencari ip daripada Microsoft FTP itu sendiri dengan FTP contains "Microsoft FTP"
+Pertama mencari ip daripada Microsoft FTP itu sendiri dengan ftp contains "Microsoft FTP"
 <img src="https://github.com/hrswcksono/Jarkom_Modul1_Lapres_D14/blob/main/gambar/no8a.png" >
 
 Lalu gabungkan dengan ftp.request.command == RETR and ip.addr == 198.246.117.106
