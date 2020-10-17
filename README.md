@@ -93,7 +93,7 @@ Setelah itu akses aku.pengen.pw dengan memasukkan username dan password yang sud
 
 <img src="https://github.com/hrswcksono/Jarkom_Modul1_Lapres_D14/blob/main/gambar/no7a.JPG" >
 <img src="https://github.com/hrswcksono/Jarkom_Modul1_Lapres_D14/blob/main/gambar/no7b.JPG" >
-<img src="https://github.com/hrswcksono/Jarkom_Modul1_Lapres_D14/blob/main/gambar/no7b.JPG" >
+<img src="https://github.com/hrswcksono/Jarkom_Modul1_Lapres_D14/blob/main/gambar/no7c.JPG" >
 
 
 
