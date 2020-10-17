@@ -16,8 +16,8 @@ ANGGOTA         :
 * Setelah itu klik kanan -> klik follow --> klik TCP Stream 
 * Disitu dapat dilihat webserver yang digunakan pada "testing.mekanis.me" yaitu nginx/1/14/0 (Ubuntu)
 
-<img src="https://github.com/hrswcksono/Jarkom_Modul1_Lapres_D14/blob/main/gambar/no1a.jpg" >
-<img src="https://github.com/hrswcksono/Jarkom_Modul1_Lapres_D14/blob/main/gambar/no1b.jpg" >
+<img src="https://github.com/hrswcksono/Jarkom_Modul1_Lapres_D14/blob/main/gambar/no1a.JPG" >
+<img src="https://github.com/hrswcksono/Jarkom_Modul1_Lapres_D14/blob/main/gambar/no1b.JPG" >
 
 ### 2) Simpan gambar "Tim_Kunjungan_Kerja_BAKN_DPR_RI_ke_Sukabumi141436.jpg"!
 
