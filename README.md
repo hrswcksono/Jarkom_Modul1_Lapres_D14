@@ -41,7 +41,29 @@ ANGGOTA         :
 * Username : kakakgamtenk , Password : hartatahtabermuda
 
 
-Setelah 
+Setelah itu akses aku.pengen.pw dengan memasukkan username dan password yang sudah didapat.
+
+
+### 6) Seseorang menyimpan file zip melalui FTP dengan nama "Answer.zip". Simpan dan Buka file "Open This.pdf" di Answer.zip. Untuk mendapatkan password zipnya, temukan dalam file zipkey.txt (passwordnya adalah isi dari file txt tersebut).
+
+* Pertama, mencari zipkey.txt dengan filter command "ftp-data.command ~ "zipkey.txt"" 
+* Setelah itu klik kanan -> klik follow --> klik TCP Stream 
+* Kemudian didapatkan passwordnya yaitu hey997400323051
+
+
+* Setelah didapatkan zipkeynya, kita mencari file "Open This.pdf dengan memasukan filter command "ftp-data.command ~ "Answer.zip"".
+* Setelah itu klik kanan -> klik follow --> klik TCP Stream 
+* Ganti show and save data menjadi "Raw", kemudian save as ke direktori yang diinginkan dengan format .zip.
+* Kemudian buka dan extract file zip nya, lalu buka Open This.pdf dan masukkan password yang telah didapat.
+
+
+### 7) Ada 500 file zip yang disimpan ke FTP Server dengan nama 1.zip, 2.zip, ..., 500.zip. Salah satunya berisi pdf yang berisi puisi. Simpan dan Buka file pdf tersebut. Your Super Mega Ultra Rare Hint = nama pdf-nya "Yes.pdf"
+
+* Pertama, mencari file "Yes.pdf" dengan menggunakan filter command "ftp-data contains "Yes.pdf" 
+* Setelah itu klik kanan -> klik follow --> klik TCP Stream 
+* Ganti show and save data menjadi "Raw", kemudian save as ke direktori yang diinginkan dengan format .zip.
+* Buka dan extract file .zip kemudian buka file "Yes.pdf"
+
 
 
 
@@ -138,9 +160,9 @@ Menggunakan command dst host monta.if.its.ac.id
 
 
 
-Seseorang menyimpan file zip melalui FTP dengan nama "Answer.zip". Simpan dan Buka file "Open This.pdf" di Answer.zip. Untuk mendapatkan password zipnya, temukan dalam file zipkey.txt (passwordnya adalah isi dari file txt tersebut).
-Ada 500 file zip yang disimpan ke FTP Server dengan nama 1.zip, 2.zip, ..., 500.zip. Salah satunya berisi pdf yang berisi puisi. Simpan dan Buka file pdf tersebut.
-Your Super Mega Ultra Rare Hint = nama pdf-nya "Yes.pdf"
+
+
+
 Cari objek apa saja yang didownload (RETR) dari koneksi FTP dengan Microsoft FTP Service!
 Cari username dan password ketika login FTP pada localhost!
 Cari file .pdf di wireshark lalu download dan buka file tersebut!
