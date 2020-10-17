@@ -19,6 +19,7 @@ ANGGOTA         :
 <img src="https://github.com/hrswcksono/Jarkom_Modul1_Lapres_D14/blob/main/gambar/no1a.JPG" >
 <img src="https://github.com/hrswcksono/Jarkom_Modul1_Lapres_D14/blob/main/gambar/no1b.JPG" >
 #
+
 ### 2) Simpan gambar "Tim_Kunjungan_Kerja_BAKN_DPR_RI_ke_Sukabumi141436.jpg"!
 
 * Pertama, kita memilih file --> Export Object --> HTTP.
@@ -38,6 +39,7 @@ ANGGOTA         :
 <img src="https://github.com/hrswcksono/Jarkom_Modul1_Lapres_D14/blob/main/gambar/no3a.JPG" >
 <img src="https://github.com/hrswcksono/Jarkom_Modul1_Lapres_D14/blob/main/gambar/no3b.JPG" >
 #
+
 ### 4) Temukan paket dari web-web yang menggunakan basic authentication method!
 
 * Untuk menemukan paket dari web-web yang menggunakan basic authentication method menggunakan command display filter : http.authbasic
