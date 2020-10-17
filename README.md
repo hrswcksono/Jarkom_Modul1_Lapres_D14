@@ -12,9 +12,22 @@ ANGGOTA         :
 
 ### 1) Sebutkan webserver yang digunakan pada "testing.mekanis.me"!
 
-* Pertama, kita harus mencari http.host di display capture dengan filter command "http.host == testing.mekanisme.me"
+* Pertama, kita harus mencari http.host di display capture dengan filter command "http.host == testing.mekanis.me"
 * Setelah itu klik kanan -> klik follow --> klik TCP Stream 
 * Disitu dapat dilihat webserver yang digunakan pada "testing.mekanis.me" yaitu nginx/1/14/0 (Ubuntu)
+
+### 2) Simpan gambar "Tim_Kunjungan_Kerja_BAKN_DPR_RI_ke_Sukabumi141436.jpg"!
+
+* Pertama, kita memilih file --> Export Object --> HTTP.
+* Ketika HTTP Object listt muncul, ketik "Tim_Kunjungan_Kerja_BAKN_DPR_RI_ke_Sukabumi141436.jpg" pada kolom text filter.
+* Setelah itu, pilih file tersebut dan klik save pada direktori yang diinginkan.
+* File gambar tersimpan.
+
+### 3) Cari username dan password ketika login di "ppid.dpr.go.id"!
+
+* Pertama, kita harus mencari http.host dan mencari http request method "http.host == ppid.dpr.go.id" serta
+* http.host == ppid.dpr.go.id and http.request.method == POST
+
 
 
 
@@ -106,8 +119,8 @@ Menggunakan command dst host monta.if.its.ac.id
 
 <img src="https://github.com/hrswcksono/Jarkom_Modul1_Lapres_D14/blob/main/gambar/no15.png" >
 
-Sebutkan webserver yang digunakan pada "testing.mekanis.me"!
-Simpan gambar "Tim_Kunjungan_Kerja_BAKN_DPR_RI_ke_Sukabumi141436.jpg"!
+
+
 Cari username dan password ketika login di "ppid.dpr.go.id"!
 Temukan paket dari web-web yang menggunakan basic authentication method!
 Ikuti perintah di aku.pengen.pw! Username dan password bisa didapatkan dari file .pcapng!
