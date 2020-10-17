@@ -35,8 +35,13 @@ ANGGOTA         :
 
 ### 5) Ikuti perintah di aku.pengen.pw! Username dan password bisa didapatkan dari file .pcapng!
 
+* Pertama, kita harus mencari http.host di display capture dengan filter command "http.host == aku.pengen.pw"
+* Setelah itu, klik paket dengan info "GET/ HTTP/1.1" 
+* Kemudian dilihat detail packetnya di kolom Hypertext Transfer Protocol --> Authorization, di kolom tersebut terlihat username dan password pada bagian Credential.
+* Username : kakakgamtenk , Password : hartatahtabermuda
 
 
+Setelah 
 
 
 
