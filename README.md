@@ -6,9 +6,11 @@ ANGGOTA         :
 * Muhammad Haris W.     (05111840000029)
 * Vieri Fath Ayuba      (05111840000153)
 
-### Jawaban Soal Praktikum Jarkom Modul 1
+## Jawaban Soal Praktikum Jarkom Modul 1
 
-## No 1. Sebutkan webserver yang digunakan pada "testing.mekanis.me"!
+
+
+### No 1. Sebutkan webserver yang digunakan pada "testing.mekanis.me"!
 
 * Pertama, kita harus mencari http.host di display capture dengan filter command "http.host == testing.mekanisme.me"
 * Setelah itu klik kanan -> klik follow --> klik TCP Stream 
