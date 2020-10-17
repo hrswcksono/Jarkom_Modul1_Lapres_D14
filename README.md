@@ -27,7 +27,7 @@ ANGGOTA         :
 * File gambar tersimpan.
 
 <img src="https://github.com/hrswcksono/Jarkom_Modul1_Lapres_D14/blob/main/gambar/no2a.JPG" >
-<img src="https://github.com/hrswcksono/Jarkom_Modul1_Lapres_D14/blob/main/gambar/no2b.JPG" >
+<img src="https://github.com/hrswcksono/Jarkom_Modul1_Lapres_D14/blob/main/gambar/no2b.jpeg" >
 
 ### 3) Cari username dan password ketika login di "ppid.dpr.go.id"!
 
