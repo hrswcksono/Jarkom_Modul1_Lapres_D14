@@ -25,8 +25,17 @@ ANGGOTA         :
 
 ### 3) Cari username dan password ketika login di "ppid.dpr.go.id"!
 
-* Pertama, kita harus mencari http.host dan mencari http request method "http.host == ppid.dpr.go.id" serta
-* http.host == ppid.dpr.go.id and http.request.method == POST
+* Pertama, kita harus mencari http.host "ppid.dpr.go.id "dan mencari http request method dengan method "POST". Command display filternya sebagai berikut "http.host == ppid.dpr.go.id and http.request.method == POST.
+* Kemudian dilihat detail packetnya di kolom "HTTP Form URL Encode", di kolom tersebut terlihat username dan password untuk login.
+* Username : "10pemuda" , Password : "guncangdunia"
+
+### 4) Temukan paket dari web-web yang menggunakan basic authentication method!
+
+* Untuk menemukan paket dari web-web yang menggunakan basic authentication method menggunakan command display filter : http.authbasic
+
+### 5) Ikuti perintah di aku.pengen.pw! Username dan password bisa didapatkan dari file .pcapng!
+
+
 
 
 
@@ -121,9 +130,9 @@ Menggunakan command dst host monta.if.its.ac.id
 
 
 
-Cari username dan password ketika login di "ppid.dpr.go.id"!
-Temukan paket dari web-web yang menggunakan basic authentication method!
-Ikuti perintah di aku.pengen.pw! Username dan password bisa didapatkan dari file .pcapng!
+
+
+
 Seseorang menyimpan file zip melalui FTP dengan nama "Answer.zip". Simpan dan Buka file "Open This.pdf" di Answer.zip. Untuk mendapatkan password zipnya, temukan dalam file zipkey.txt (passwordnya adalah isi dari file txt tersebut).
 Ada 500 file zip yang disimpan ke FTP Server dengan nama 1.zip, 2.zip, ..., 500.zip. Salah satunya berisi pdf yang berisi puisi. Simpan dan Buka file pdf tersebut.
 Your Super Mega Ultra Rare Hint = nama pdf-nya "Yes.pdf"
