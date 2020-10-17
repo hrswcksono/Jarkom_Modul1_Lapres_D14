@@ -1,6 +1,18 @@
 # Jarkom_Modul1_Lapres_D14
 
-## no 8
+### KELOMPOK        : C1
+ANGGOTA         :
+
+* Muhammad Haris W.     (051118400000--)
+* Vieri Fath Ayuba      (05111840000153)
+
+### Jawaban Soal Praktikum Jarkom Modul 1
+
+## No 1
+
+
+
+## No 8
 
 Cari objek apa saja yang didownload (RETR) dari koneksi FTP dengan Microsoft FTP Service!
 
@@ -82,3 +94,16 @@ Filter sehingga wireshark hanya mengambil paket yang tujuannya ke monta.if.its.a
 Menggunakan command dst host monta.if.its.ac.id
 
 <img src="https://github.com/hrswcksono/Jarkom_Modul1_Lapres_D14/blob/main/gambar/no15.png" >
+
+Sebutkan webserver yang digunakan pada "testing.mekanis.me"!
+Simpan gambar "Tim_Kunjungan_Kerja_BAKN_DPR_RI_ke_Sukabumi141436.jpg"!
+Cari username dan password ketika login di "ppid.dpr.go.id"!
+Temukan paket dari web-web yang menggunakan basic authentication method!
+Ikuti perintah di aku.pengen.pw! Username dan password bisa didapatkan dari file .pcapng!
+Seseorang menyimpan file zip melalui FTP dengan nama "Answer.zip". Simpan dan Buka file "Open This.pdf" di Answer.zip. Untuk mendapatkan password zipnya, temukan dalam file zipkey.txt (passwordnya adalah isi dari file txt tersebut).
+Ada 500 file zip yang disimpan ke FTP Server dengan nama 1.zip, 2.zip, ..., 500.zip. Salah satunya berisi pdf yang berisi puisi. Simpan dan Buka file pdf tersebut.
+Your Super Mega Ultra Rare Hint = nama pdf-nya "Yes.pdf"
+Cari objek apa saja yang didownload (RETR) dari koneksi FTP dengan Microsoft FTP Service!
+Cari username dan password ketika login FTP pada localhost!
+Cari file .pdf di wireshark lalu download dan buka file tersebut!
+clue: "25 50 44 46" 
