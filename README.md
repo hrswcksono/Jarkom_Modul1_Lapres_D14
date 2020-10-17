@@ -10,7 +10,7 @@ ANGGOTA         :
 #
 
 
-### No 1. Sebutkan webserver yang digunakan pada "testing.mekanis.me"!
+### 1) Sebutkan webserver yang digunakan pada "testing.mekanis.me"!
 
 * Pertama, kita harus mencari http.host di display capture dengan filter command "http.host == testing.mekanisme.me"
 * Setelah itu klik kanan -> klik follow --> klik TCP Stream 
