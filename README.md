@@ -18,7 +18,7 @@ ANGGOTA         :
 
 <img src="https://github.com/hrswcksono/Jarkom_Modul1_Lapres_D14/blob/main/gambar/no1a.JPG" >
 <img src="https://github.com/hrswcksono/Jarkom_Modul1_Lapres_D14/blob/main/gambar/no1b.JPG" >
-
+#
 ### 2) Simpan gambar "Tim_Kunjungan_Kerja_BAKN_DPR_RI_ke_Sukabumi141436.jpg"!
 
 * Pertama, kita memilih file --> Export Object --> HTTP.
@@ -28,7 +28,7 @@ ANGGOTA         :
 
 <img src="https://github.com/hrswcksono/Jarkom_Modul1_Lapres_D14/blob/main/gambar/no2a.JPG" >
 <img src="https://github.com/hrswcksono/Jarkom_Modul1_Lapres_D14/blob/main/gambar/no2b.jpeg" >
-
+#
 ### 3) Cari username dan password ketika login di "ppid.dpr.go.id"!
 
 * Pertama, kita harus mencari http.host "ppid.dpr.go.id "dan mencari http request method dengan method "POST". Command display filternya sebagai berikut "http.host == ppid.dpr.go.id and http.request.method == POST.
@@ -37,13 +37,13 @@ ANGGOTA         :
 
 <img src="https://github.com/hrswcksono/Jarkom_Modul1_Lapres_D14/blob/main/gambar/no3a.JPG" >
 <img src="https://github.com/hrswcksono/Jarkom_Modul1_Lapres_D14/blob/main/gambar/no3b.JPG" >
-
+#
 ### 4) Temukan paket dari web-web yang menggunakan basic authentication method!
 
 * Untuk menemukan paket dari web-web yang menggunakan basic authentication method menggunakan command display filter : http.authbasic
 
 <img src="https://github.com/hrswcksono/Jarkom_Modul1_Lapres_D14/blob/main/gambar/no4.JPG" >
-
+#
 ### 5) Ikuti perintah di aku.pengen.pw! Username dan password bisa didapatkan dari file .pcapng!
 
 * Pertama, kita harus mencari http.host di display capture dengan filter command "http.host == aku.pengen.pw"
@@ -60,8 +60,7 @@ Setelah itu akses aku.pengen.pw dengan memasukkan username dan password yang sud
 <img src="https://github.com/hrswcksono/Jarkom_Modul1_Lapres_D14/blob/main/gambar/no5c.JPG" >
 <img src="https://github.com/hrswcksono/Jarkom_Modul1_Lapres_D14/blob/main/gambar/no5d.JPG" >
 
-
-
+#
 ### 6) Seseorang menyimpan file zip melalui FTP dengan nama "Answer.zip". Simpan dan Buka file "Open This.pdf" di Answer.zip. Untuk mendapatkan password zipnya, temukan dalam file zipkey.txt (passwordnya adalah isi dari file txt tersebut).
 
 * Pertama, mencari zipkey.txt dengan filter command "ftp-data.command ~ "zipkey.txt"" 
@@ -82,7 +81,7 @@ Setelah itu akses aku.pengen.pw dengan memasukkan username dan password yang sud
 <img src="https://github.com/hrswcksono/Jarkom_Modul1_Lapres_D14/blob/main/gambar/no6e.JPG" >
 <img src="https://github.com/hrswcksono/Jarkom_Modul1_Lapres_D14/blob/main/gambar/no6f.JPG" >
 
-
+#
 ### 7) Ada 500 file zip yang disimpan ke FTP Server dengan nama 1.zip, 2.zip, ..., 500.zip. Salah satunya berisi pdf yang berisi puisi. Simpan dan Buka file pdf tersebut. Your Super Mega Ultra Rare Hint = nama pdf-nya "Yes.pdf"
 
 * Pertama, mencari file "Yes.pdf" dengan menggunakan filter command "ftp-data contains "Yes.pdf" 
@@ -95,9 +94,7 @@ Setelah itu akses aku.pengen.pw dengan memasukkan username dan password yang sud
 <img src="https://github.com/hrswcksono/Jarkom_Modul1_Lapres_D14/blob/main/gambar/no7b.JPG" >
 <img src="https://github.com/hrswcksono/Jarkom_Modul1_Lapres_D14/blob/main/gambar/no7c.JPG" >
 
-
-
-
+#
 ### 8) Cari objek apa saja yang didownload (RETR) dari koneksi FTP dengan Microsoft FTP Service!
 
 * Cari objek apa saja yang didownload (RETR) dari koneksi FTP dengan Microsoft FTP Service!
@@ -108,6 +105,7 @@ Setelah itu akses aku.pengen.pw dengan memasukkan username dan password yang sud
 * Lalu gabungkan dengan ftp.request.command == RETR and ip.addr == 198.246.117.106
 <img src="https://github.com/hrswcksono/Jarkom_Modul1_Lapres_D14/blob/main/gambar/no8b.png" >
 
+#
 ### 9) Cari username dan password ketika login FTP pada localhost!
 
 * Untuk mencari User gunakan ftp.request.command == USER
@@ -118,6 +116,7 @@ Setelah itu akses aku.pengen.pw dengan memasukkan username dan password yang sud
 
 <img src="https://github.com/hrswcksono/Jarkom_Modul1_Lapres_D14/blob/main/gambar/no9b.png" >
 
+#
 ### 10) Cari file .pdf di wireshark lalu download dan buka file tersebut! clue: "25 50 44 46" 
 
 * Cari file .pdf di wireshark lalu download dan buka file tersebut!
